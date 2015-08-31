@@ -1,0 +1,16 @@
+{
+  "name": "gulp-sass",
+  "version": "0.0.1",
+  "description": "Gulp: compilador sass",
+  "main": "gulpfile.js",
+  "author": "Luis Ramos oxxfreddyxxo",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-group-css-media-queries": "^1.0.0",
+    "gulp-sass": "*",
+    "gulp-watch": "^3.0.0",
+    "gulp-webserver": "^0.8.8"
+  }
+}
